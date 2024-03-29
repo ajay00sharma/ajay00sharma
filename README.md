@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TO DO LIST<br>🌱 I’m currently learning HTML,CSS,JAVASCRIPT,DBMS<br>💬 Ask me about C++,JAVA,DSA,Phyton,HTML<br>⚡Fun Fact I dont know much 
+🔭 I’m currently working on Wed Dev learning<br>🌱 I’m currently learning HTML,CSS,JAVASCRIPT,DBMS<br>💬 Ask me about C++,JAVA,DSA,Phyton,HTML<br>⚡Fun Fact I dont know much 
 
 
 ## 🌐 Socials:
