@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev<br>🌱 I’m currently learning HTML, CSS, JAVASCRIPT, DBMS<br>💬 Ask me about C++,JAVA, DSA, Phyton, HTML, CSS<br>⚡ Fun fact I don't know much
+🔭 I’m currently working on Web Dev<br>🌱 I’m currently learning HTML, CSS, JAVASCRIPT, DBMS<br>💬 Ask me about C++,JAVA, DSA, Python, HTML, CSS<br>⚡ Fun fact I don't know much
 
 
 ## 🌐 Socials:
